@@ -1,0 +1,16 @@
+{
+    "Categorias": [
+        {
+            "id": 1,
+            "nome": "Episódio 1",
+            "Descrição": "Primeiro episódio da primeira temporada",
+            "cor": "#cbd1ff"
+        },
+        {
+            "id": 2,
+            "nome": "Episódio 2",
+            "Descrição": "Segundo episódio da primeira temporada",
+            "cor": "#9400D3"
+        }
+    ]
+}
