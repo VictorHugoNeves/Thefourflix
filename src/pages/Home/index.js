@@ -12,7 +12,7 @@ function Home() {
       <Menu />
 
       <BannerMain
-        videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
+        videoTitle={dadosIniciais.categorias[6].videos[12].titulo}
         url={dadosIniciais.categorias[6].videos[12].url}
         videosDescription="O que é Front-end? Trabalhando na área"
       />
