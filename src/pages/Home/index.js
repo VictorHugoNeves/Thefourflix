@@ -12,8 +12,8 @@ function Home() {
       <Menu />
 
       <BannerMain
-        videoTitle={dadosIniciais.categorias[6].videos[12].titulo}
-        url={dadosIniciais.categorias[6].videos[12].url}
+        videoTitle={dadosIniciais.categorias[7].videos[0].titulo}
+        url={dadosIniciais.categorias[7].videos[0].url}
         videosDescription="O que é Front-end? Trabalhando na área"
       />
 
@@ -22,6 +22,7 @@ function Home() {
       />
 
       <Carousel
+        ignoreFirstVideo
         category={dadosIniciais.categorias[7]}
       />
       <Footer />

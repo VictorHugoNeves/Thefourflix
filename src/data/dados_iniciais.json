@@ -247,15 +247,59 @@
     {
       "titulo": "Episódio 2",
       "link": "https://www.youtube.com/channel/UC2KM1WbpOTGSwwuz09n5sHQ",
-      "cor": "#00FF00",
+      "cor": "#26728C",
       "link_extra": {
         "text": "",
         "url": "https://www.youtube.com/channel/UC2KM1WbpOTGSwwuz09n5sHQ"
       },
       "videos": [
         {
-          "titulo": "Primeiro participante da noite",
+          "titulo": "Apresentação dos Finalistas na Abertura da Segunda Noite",
+          "url": "https://www.youtube.com/watch?v=CDKyzy6usyY"
+        },
+        {
+          "titulo": "Primeira participante da noite",
+          "url": "https://www.youtube.com/watch?v=s9eujAZWHb8"
+        },
+        {
+          "titulo": "Segunda participante da noite",
           "url": "https://www.youtube.com/watch?v=dbICrPExJKw"
+        },
+        {
+          "titulo": "Manso abre a primeira batalha da noite",
+          "url": "https://www.youtube.com/watch?v=poZvyMaxnFA"
+        },
+        {
+          "titulo": "Quinara encerra a primeira batalha ao som de Listen",
+          "url": "https://www.youtube.com/watch?v=xATCXLrkcHY"
+        },
+        {
+          "titulo": "Terceira participante da noite",
+          "url": "https://www.youtube.com/watch?v=wRxOjxuijsk"
+        },
+        {
+          "titulo": "Finalista abre segunda batalha da noite",
+          "url": "https://www.youtube.com/watch?v=gnos4PGWAFc"
+        },
+        {
+          "titulo": "Participante encerra segunda batalha",
+          "url": "https://www.youtube.com/watch?v=yBPBzk7NLRs"
+        },
+        {
+          "titulo": "Quarto participante",
+          "url": "https://www.youtube.com/watch?v=i3coPG9aclo"
+        },
+        {
+          "titulo": "Quinto e último participante da noite",
+          "url": "https://www.youtube.com/watch?v=TETYfF1zuQ4"
+        },
+        {
+          "titulo": "Erick abre a última batalha da noite",
+          "url": "https://www.youtube.com/watch?v=Kb3jO9zcarY"
+        },
+        {
+          "titulo": "Leo encerra noite ao som de castle on the hill",
+          "url": "https://www.youtube.com/watch?v=3RqPgeqNodE"
         }
       ]
     }
