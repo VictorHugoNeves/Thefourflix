@@ -302,6 +302,69 @@
           "url": "https://www.youtube.com/watch?v=3RqPgeqNodE"
         }
       ]
+    },
+    {
+      "titulo": "Episódio 3",
+      "link": "https://www.youtube.com/channel/UC2KM1WbpOTGSwwuz09n5sHQ",
+      "cor": "#6495ED",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/channel/UC2KM1WbpOTGSwwuz09n5sHQ"
+      },
+      "videos": [
+        {
+          "titulo": "Finalistas cantam Adele na abertura da terceira noite",
+          "url": "https://www.youtube.com/watch?v=CCm5Hon3F7k"
+        },
+        {
+          "titulo": "Primeira participante surpreende jurados com seu estilo",
+          "url": "https://www.youtube.com/watch?v=70QWy4lYH3s"
+        },
+        {
+          "titulo": "Leo abre as batalhas da noite com uma grande apresentação",
+          "url": "https://www.youtube.com/watch?v=LyRLNe8aMoM"
+        },
+        {
+          "titulo": "Participante encerra batalha ao som de uptownfunk",
+          "url": "https://www.youtube.com/watch?v=JDg5HZpelj8"
+        },
+        {
+          "titulo": "Participante dá show ao cantar e tocar musica de ney matogrosso",
+          "url": "https://www.youtube.com/watch?v=0ZNlDFi5fkA"
+        },
+        {
+          "titulo": "Victor abre a segunda batalha ao som de negro gato",
+          "url": "https://www.youtube.com/watch?v=MWPGXEQlTpA"
+        },
+        {
+          "titulo": "Participante encerra batalha contando Ivete Sangalo",
+          "url": "https://www.youtube.com/watch?v=sXIHgG94h8k"
+        },
+        {
+          "titulo": "Terceira participante da noite tenta uma vaga nas batalhas",
+          "url": "https://www.youtube.com/watch?v=TNbNy_mQp68&t=86s"
+        },
+        {
+          "titulo": "Manso abre batalha ao som de Bang da Anita",
+          "url": "https://www.youtube.com/watch?v=2jfp02Ae9Co"
+        },
+        {
+          "titulo": "Particpante devolve performance com Bang Bang",
+          "url": "https://www.youtube.com/watch?v=KbhIl7tzFig"
+        },
+        {
+          "titulo": "Quarta participante da noite canta clássico de cartola",
+          "url": "https://www.youtube.com/watch?v=o1J5BCwR8gk"
+        },
+        {
+          "titulo": "Rully canta imagine Dragons na ultima batalha da noite",
+          "url": "https://www.youtube.com/watch?v=-NCx_5uWD0I"
+        },
+        {
+          "titulo": "Nega encerra programa ao sim de Iza",
+          "url": "https://www.youtube.com/watch?v=ygiSnfjDVTs"
+        }
+      ]
     }
   ]
 }
