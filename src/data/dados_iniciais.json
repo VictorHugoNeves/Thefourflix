@@ -365,6 +365,61 @@
           "url": "https://www.youtube.com/watch?v=ygiSnfjDVTs"
         }
       ]
-    }
+    },
+    {
+      "titulo": "Episódio 4",
+      "link": "https://www.youtube.com/channel/UC2KM1WbpOTGSwwuz09n5sHQ",
+      "cor": "#191970",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/channel/UC2KM1WbpOTGSwwuz09n5sHQ"
+      },
+      "videos": [
+        {
+          "titulo": "Finalistas levantam a plateia ao som de lucky na abertura da quarta noite",
+          "url": "https://www.youtube.com/watch?v=XZURw184Qvw"
+        },
+        {
+          "titulo": "Primeira participante da noite canta sucesso de Aretha Franklin",
+          "url": "https://www.youtube.com/watch?v=SkU_qVtgKkg"
+        },
+        {
+          "titulo": "Segundo participante surpreende ao cantar o mais puro Blues",
+          "url": "https://www.youtube.com/watch?v=bNF6s4KLqqk"
+        },
+        {
+          "titulo": "Na primeira batalha da noite Leo arrasa, como sempre",
+          "url": "https://www.youtube.com/watch?v=1CoR24N6A-c"
+        },
+        {
+          "titulo": "O João mantem seu estilo e faz ótima apresentação na batalha contra leo",
+          "url": "https://www.youtube.com/watch?v=zvzztYGJTiI"
+        },
+        {
+          "titulo": "Gosto da Tay, será que alguem Lê isso aqui?",
+          "url": "https://www.youtube.com/watch?v=0IKa4aCjYs8"
+        },
+        {
+          "titulo": "Nunca pensei que alguém me faria gostar de uma musica sertaneja, o Kaká é foda!",
+          "url": "https://www.youtube.com/watch?v=oyPzflDHZzc"
+        },
+        {
+          "titulo": "Ok, levei bronca do meu chefe (eu mesmo) vou colocar as coisas sério aqui",
+          "url": "https://www.youtube.com/watch?v=qh86GQXMvi8"
+        },
+        {
+          "titulo": "Essa música ficou irada... O que? mas eu to falando direito!",
+          "url": "https://www.youtube.com/watch?v=iPUA8aez2Tc"
+        },
+        {
+          "titulo": "Meu chefe disse que tenho que ser formal nessa conversa. Não é um conversa? po chefe, devia ter me avisado antes, agora só no próximo episódio",
+          "url": "https://www.youtube.com/watch?v=_6jNX8DFwn4"
+        },
+        {
+          "titulo": "Demitido?? Mas é meu primeiro dia!",
+          "url": "https://www.youtube.com/watch?v=iiC0vFg9GL4"
+        }
+      ]
+    } 
   ]
 }
