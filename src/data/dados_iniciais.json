@@ -420,6 +420,61 @@
           "url": "https://www.youtube.com/watch?v=iiC0vFg9GL4"
         }
       ]
-    } 
-  ]
+    },
+    {
+      "titulo": "Episódio 5",
+      "link": "https://www.youtube.com/channel/UC2KM1WbpOTGSwwuz09n5sHQ",
+      "cor": "#48D1CC",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/channel/UC2KM1WbpOTGSwwuz09n5sHQ"
+      },
+      "videos": [
+        {
+          "titulo": "Finalistas cantam Bon Jovi na abertura da quinta noite de batalhas",
+          "url": "https://www.youtube.com/watch?v=6IbfcSOXp0o"
+        },
+        {
+          "titulo": "Ivan abre a noite e deixa jurados bolados",
+          "url": "https://www.youtube.com/watch?v=tL5PKCX8UZo"
+        },
+        {
+          "titulo": "Tay canta clássico de Pitch Perfect na primeira batalha da noite",
+          "url": "https://www.youtube.com/watch?v=r6MsuSud-tY"
+        },
+        {
+          "titulo": "Ivan fecha batalha com apresentação poderosa",
+          "url": "https://www.youtube.com/watch?v=TcCmapILoFw"
+        },
+        {
+          "titulo": "Daniela Firme faz apresentação firmeza",
+          "url": "https://www.youtube.com/watch?v=j6b-SS-0IWo"
+        },
+        {
+          "titulo": "Mariana Suzzuki canta Tim Maia",
+          "url": "https://www.youtube.com/watch?v=S6zBGKz42mY,"
+        },
+        {
+          "titulo": "Nega canta Elis",
+          "url": "https://www.youtube.com/watch?v=SVHHa__JkJc,"
+        },
+        {
+          "titulo": "Mariana Fecha a batalha",
+          "url": "https://www.youtube.com/watch?v=YWecb_shXlg,"
+        },
+        {
+          "titulo": "Quarto paricipante me faz chorar ao cantar crying",
+          "url": "https://www.youtube.com/watch?v=XC3LIz-kmdc"
+        },
+        {
+          "titulo": "Leo defende mais uma vez a cadeira mostrando toda sua polivalência",
+          "url": "https://www.youtube.com/watch?v=Je61MNpfhok"
+        },
+        {
+          "titulo": "Tom canta Axel e até que manda bem",
+          "url": "https://www.youtube.com/watch?v=pmAwl6W64ts"
+        }
+      ]
+    }
+  ]   
 }
