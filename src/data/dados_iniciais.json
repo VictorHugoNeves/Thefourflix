@@ -475,6 +475,65 @@
           "url": "https://www.youtube.com/watch?v=pmAwl6W64ts"
         }
       ]
+    },
+    {
+      "titulo": "Episódio 6",
+      "link": "https://www.youtube.com/channel/UC2KM1WbpOTGSwwuz09n5sHQ",
+      "cor": "#00008B",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/channel/UC2KM1WbpOTGSwwuz09n5sHQ"
+      },
+      "videos": [
+        {
+          "titulo": "Finalistas abrem última noite antes da repescagem",
+          "url": "https://www.youtube.com/watch?v=wgKZYFOFrJQ"
+        },
+        {
+          "titulo": "Primeira participante canta Alicia Keys",
+          "url": "https://www.youtube.com/watch?v=3CEGSyvZnE4"
+        },
+        {
+          "titulo": "Segundo participante canta bem e mostra confiança para batalhar contra Leo",
+          "url": "https://www.youtube.com/watch?v=wJhB4fs4C9w"
+        },
+        {
+          "titulo": "Leo contra ataque mandando muito e deixando as coisas difíceis para Nano",
+          "url": "https://www.youtube.com/watch?v=FB5UcdPtHgs"
+        },
+        {
+          "titulo": "Nano tenta, será que consegue vencer o leo?",
+          "url": "https://www.youtube.com/watch?v=B7E44bj1QP4"
+        },
+        {
+          "titulo": "Terceiro participante canta Tim Maia",
+          "url": "https://www.youtube.com/watch?v=Q63SOcgDaTY"
+        },
+        {
+          "titulo": "Quarta participante faz boa apresentação",
+          "url": "https://www.youtube.com/watch?v=U8yQwhjFMdo"
+        },
+        {
+          "titulo": "Nega destrói na batalha e dificulta vida da Carol",
+          "url": "https://www.youtube.com/watch?v=3RKwNTWvCmU"
+        },
+        {
+          "titulo": "Carol faz sua ultima tentativa para permanecer no programa",
+          "url": "https://www.youtube.com/watch?v=g7tDcouJhGY"
+        },
+        {
+          "titulo": "Última participante ever da temporada faz primeira apresentação",
+          "url": "https://www.youtube.com/watch?v=hszbt1YCvl4&t=18s"
+        },
+        {
+          "titulo": "Santaella tenta proteger a cadeira dele",
+          "url": "https://www.youtube.com/watch?v=TREPIVK2K0g"
+        },
+        {
+          "titulo": "Vivian fecha última batalha da noite",
+          "url": "https://www.youtube.com/watch?v=qQohLNvRIB8"
+        }
+      ]
     }
   ]   
 }

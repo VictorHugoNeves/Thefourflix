@@ -12,8 +12,8 @@ function Home() {
       <Menu />
 
       <BannerMain
-        videoTitle={dadosIniciais.categorias[10].videos[0].titulo}
-        url={dadosIniciais.categorias[10].videos[0].url}
+        videoTitle={dadosIniciais.categorias[11].videos[0].titulo}
+        url={dadosIniciais.categorias[11].videos[0].url}
         videosDescription="Apresentação dos finalistas"
       />
 
@@ -34,8 +34,12 @@ function Home() {
       />
 
       <Carousel
-        ignoreFirstVideo
         category={dadosIniciais.categorias[10]}
+      />
+
+      <Carousel
+        ignoreFirstVideo
+        category={dadosIniciais.categorias[11]}
       />
       <Footer />
 
