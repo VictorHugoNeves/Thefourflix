@@ -479,7 +479,7 @@
     {
       "titulo": "Episódio 6",
       "link": "https://www.youtube.com/channel/UC2KM1WbpOTGSwwuz09n5sHQ",
-      "cor": "#00008B",
+      "cor": "#4169E1",
       "link_extra": {
         "text": "",
         "url": "https://www.youtube.com/channel/UC2KM1WbpOTGSwwuz09n5sHQ"
@@ -534,6 +534,53 @@
           "url": "https://www.youtube.com/watch?v=qQohLNvRIB8"
         }
       ]
-    }
+    },
+    {
+      "titulo": "Episódio 7",
+      "link": "https://www.youtube.com/channel/UC2KM1WbpOTGSwwuz09n5sHQ",
+      "cor": "#191970",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/channel/UC2KM1WbpOTGSwwuz09n5sHQ"
+      },
+      "videos": [
+        {
+          "titulo": "Finalistas abrem a noite da repescagem",
+          "url": "https://www.youtube.com/watch?v=J3MAPId-fZg"
+        },
+        {
+          "titulo": "Primeira batalha da repescagem entre Victor e Rully",
+          "url": "https://www.youtube.com/watch?v=LnYaFyNIvck"
+        },
+        {
+          "titulo": "Primeira revanche da noite entre Rully e Nega",
+          "url": "https://www.youtube.com/watch?v=n4vKxXKOyAQ"
+        },
+        {
+          "titulo": "Segunda batalha da repescagem entre Artur e Erick",
+          "url": "https://www.youtube.com/watch?v=suNbGr9xKf0"
+        },
+        {
+          "titulo": "Segunda revanche entre Erick e Leo",
+          "url": "https://www.youtube.com/watch?v=yvRlmW0EZBE"
+        },
+        {
+          "titulo": "Terceira batalha da repescagem entre Stanya e Tai",
+          "url": "https://www.youtube.com/watch?v=dWZpd1clnuo"
+        },
+        {
+          "titulo": "Terceira revanche entre Stanya e Vivian",
+          "url": "https://www.youtube.com/watch?v=m9jz-zNYZvk"
+        },
+        {
+          "titulo": "Quarta batalha da repescagem entre Manso e Sataella",
+          "url": "https://www.youtube.com/watch?v=icyXerXjKSI"
+        },
+        {
+          "titulo": "Quarta Revanche da noite entre Manso e Ivan",
+          "url": "https://www.youtube.com/watch?v=asHVuXJIRnY"
+        }
+      ]
+    }    
   ]   
 }
