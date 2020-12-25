@@ -581,6 +581,69 @@
           "url": "https://www.youtube.com/watch?v=asHVuXJIRnY"
         }
       ]
-    }    
+    },
+    {
+      "titulo": "Final",
+      "link": "https://www.youtube.com/channel/UC2KM1WbpOTGSwwuz09n5sHQ",
+      "cor": "#191970",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/channel/UC2KM1WbpOTGSwwuz09n5sHQ"
+      },
+      "videos": [
+        {
+          "titulo": "Finalistas abrem a noite final",
+          "url": "https://www.youtube.com/watch?v=fa83xmgHEhU"
+        },
+        {
+          "titulo": "Ludmilla faz participação especial com os finalistas do the four",
+          "url": "https://www.youtube.com/watch?v=IdxFtIdfcPE"
+        },
+        {
+          "titulo": "Nega abre a final ao som de Lenine",
+          "url": "https://www.youtube.com/watch?v=nX4fXPJXdKA"
+        },
+        {
+          "titulo": "Vivian faz segunda apresentação da noite",
+          "url": "https://www.youtube.com/watch?v=FW6d-HHLVZU"
+        },
+        {
+          "titulo": "Ivan é o terceiro finalista a se apresentar",
+          "url": "https://www.youtube.com/watch?v=S_TPF-31UUU"
+        },
+        {
+          "titulo": "Leo finaliza as primeiras apresentações",
+          "url": "https://www.youtube.com/watch?v=imKWgRrNPJo"
+        },
+        {
+          "titulo": "Nega abre primeira batalha da noite",
+          "url": "https://www.youtube.com/watch?v=emhu7hoUpkY"
+        },
+        {
+          "titulo": "Vivian encerra primeira batalha da noite",
+          "url": "https://www.youtube.com/watch?v=K4F-cQ8KeC0"
+        },
+        {
+          "titulo": "Leo abre segunda batalha da noite",
+          "url": "https://www.youtube.com/watch?v=43Jg_wR7MYg"
+        },
+        {
+          "titulo": "Ivan encerra a segunda batalha da noite",
+          "url": "https://www.youtube.com/watch?v=WXvBnzsV3c8"
+        },
+        {
+          "titulo": "Vivian tenta a vitória na ultima batalha do programa",
+          "url": "https://www.youtube.com/watch?v=OcqaxkJ9FmY"
+        },
+        {
+          "titulo": "Ivan tenta a vitória na última apresentação do programa",
+          "url": "https://www.youtube.com/watch?v=h-g9t2chzyk"
+        },
+        {
+          "titulo": "Xuxa Anuncia o Campeão da primeira temporada do The Four",
+          "url": "https://www.youtube.com/watch?v=bgGY7WL1gpE"
+        }        
+      ]
+    } 
   ]   
 }
